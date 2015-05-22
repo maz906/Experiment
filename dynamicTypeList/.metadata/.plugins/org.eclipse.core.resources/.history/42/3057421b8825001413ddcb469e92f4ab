@@ -1,0 +1,20 @@
+package dynamicList;
+
+public class test {
+	public static void main(String[] args) {
+		int x = 1;
+		switch(x) {
+			case 1:
+				System.out.println("hi");
+				break;
+			case 2:
+				System.out.println("hello");
+			default:
+				System.out.println("hehehehehe");
+				
+			case 3:
+				System.out.println(3);
+				
+		}	
+	}
+}

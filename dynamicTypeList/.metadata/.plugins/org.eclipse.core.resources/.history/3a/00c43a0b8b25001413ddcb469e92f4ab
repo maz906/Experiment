@@ -1,0 +1,11 @@
+package dynamicList;
+
+public class test {
+	public static void main(String[] args) {
+	
+		
+		double b = 3.14;
+		long c = 3;
+		System.out.println(b);
+	}
+}

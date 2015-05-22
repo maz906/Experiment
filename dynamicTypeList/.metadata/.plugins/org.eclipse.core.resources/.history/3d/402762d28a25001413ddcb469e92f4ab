@@ -1,0 +1,22 @@
+package dynamicList;
+
+public class test {
+	public static void main(String[] args) {
+		String x = "ha";
+		switch(x) {
+			case "ha":
+				System.out.println("hi");
+				break;
+			case "hehe":
+				System.out.println("hello");
+				break;
+			default:
+				System.out.println("hehehehehe");
+				break;
+				
+			case "hue":
+				System.out.println(3);
+				
+		}	
+	}
+}
