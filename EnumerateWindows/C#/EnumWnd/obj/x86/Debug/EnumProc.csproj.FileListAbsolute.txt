@@ -1,0 +1,7 @@
+c:\users\ramirez.jp.2\documents\visual studio 2010\Projects\Enumerate Processes\EnumProc\bin\Debug\EnumProc.exe
+c:\users\ramirez.jp.2\documents\visual studio 2010\Projects\Enumerate Processes\EnumProc\bin\Debug\EnumProc.pdb
+c:\users\ramirez.jp.2\documents\visual studio 2010\Projects\Enumerate Processes\EnumProc\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ramirez.jp.2\documents\visual studio 2010\Projects\Enumerate Processes\EnumProc\obj\x86\Debug\EnumProc.exe
+c:\users\ramirez.jp.2\documents\visual studio 2010\Projects\Enumerate Processes\EnumProc\obj\x86\Debug\EnumProc.pdb
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumProc\obj\x86\Debug\EnumProc.exe
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumProc\obj\x86\Debug\EnumProc.pdb

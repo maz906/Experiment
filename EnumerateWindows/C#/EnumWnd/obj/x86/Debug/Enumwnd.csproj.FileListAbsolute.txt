@@ -1,0 +1,12 @@
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumProc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumProc\bin\Debug\EnumWnd.exe
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumProc\bin\Debug\EnumWnd.pdb
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumProc\obj\x86\Debug\EnumWnd.exe
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumProc\obj\x86\Debug\EnumWnd.pdb
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumWnd\obj\x86\Debug\EnumWnd.exe
+C:\Users\ramirez.jp.2\Documents\Visual Studio 2010\Projects\Enumerate Windows\EnumWnd\obj\x86\Debug\EnumWnd.pdb
+C:\Users\Michael\Documents\GitHub\EnumerateWindows\C#\EnumWnd\obj\x86\Debug\EnumWnd.exe
+C:\Users\Michael\Documents\GitHub\EnumerateWindows\C#\EnumWnd\obj\x86\Debug\EnumWnd.pdb
+C:\Users\Michael\Documents\GitHub\EnumerateWindows\C#\EnumWnd\bin\Debug\EnumWnd.exe
+C:\Users\Michael\Documents\GitHub\EnumerateWindows\C#\EnumWnd\bin\Debug\EnumWnd.pdb
+C:\Users\Michael\Documents\GitHub\EnumerateWindows\C#\EnumWnd\obj\x86\Debug\EnumWnd.csprojResolveAssemblyReference.cache
