@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\MatlabNetworkConnect.exe.config
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\obj\Debug\MatlabNetworkConnect.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\MatlabNetworkConnect.exe
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\MatlabNetworkConnect.pdb
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\obj\Debug\MatlabNetworkConnect.exe
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\obj\Debug\MatlabNetworkConnect.pdb
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\Castle.Core.dll
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\TestStack.White.dll
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\Castle.Core.xml
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\TestStack.White.pdb
+C:\Users\Michael\Documents\GitHub\MatlabNetworkConnect\RunNC\MatlabNetworkConnect\bin\Debug\TestStack.White.xml
